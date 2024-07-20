@@ -1,2 +1,31 @@
-# Random-Password-Generator
-The Random Password Generator is a web app designed to create secure, random passwords easily. Features include customizable length, options to include/exclude uppercase letters, lowercase letters, numbers, and symbols, a password strength indicator, and a copy to clipboard function.
+# Random Password Generator
+
+## Overview
+The Random Password Generator is a web application designed to generate secure and random passwords. This tool provides users with an easy way to create strong passwords to enhance their online security.
+
+## Features
+- User-friendly interface
+- Customizable password length
+- Options to include/exclude:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
+- Password strength indicator
+- Copy to clipboard functionality
+
+## Technologies Used
+- HTML
+- CSS (including Tailwind CSS)
+- JavaScript
+
+## Setup and Installation
+
+### Prerequisites
+- Any modern web browser
+
+### Installation
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/ubaid27/Random-Password-Generator.git
+   cd random-password-generator
